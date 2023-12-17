@@ -79,7 +79,7 @@ Concepts covered :
 
 <b> View Projects </b>
 
-random-password-generator : [password-fawn.vercel.app ](https://password-fawn.vercel.app/) 
+random-password-generator : [https://password-generator-javascript.vercel.app/](https://password-generator-javascript.vercel.app/)
 
 alarm-clock: [https://alarm-clock-javascript.vercel.app/](https://alarm-clock-javascript.vercel.app/)
 
