@@ -81,6 +81,6 @@ Concepts covered :
 
 random-password-generator : [password-fawn.vercel.app ](https://password-fawn.vercel.app/) 
 
-alarm-clock: [Alarm Clock](https://alarm-clock-javascript.vercel.app/)
+alarm-clock: [https://alarm-clock-javascript.vercel.app/](https://alarm-clock-javascript.vercel.app/)
 
 
